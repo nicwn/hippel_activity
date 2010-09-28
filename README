@@ -1,0 +1,18 @@
+An activity stream for the open_hippel open innovation platform.
+
+
+DONE
+----
+
+Created basic activity stream
+Created basic block to display stream
+Added block to sidebar (not corect place according to wireframe)
+Created hippel_activity feature
+
+TODO
+----
+
+Verify the feature includes the activity templates (I have a feeling it does not)
+Add all relevent activity templates
+Style the block correctly according to wireframe
+Test for users other than admin2A2A
